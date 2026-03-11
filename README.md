@@ -11,7 +11,7 @@ O programa cria senhas com letras, números e símbolos de forma configurável.
 * Comprimento da senha configurável
 * Opção de incluir números
 * Opção de incluir símbolos
-* Execução simples via terminal
+* Execução simples via terminal ou IDE
 
 ---
 
